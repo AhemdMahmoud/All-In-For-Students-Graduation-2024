@@ -2,4 +2,4 @@
 
 -School:  USC Sadat City
 
--Favorite Quote: “Easy choices, hard life. Hard choices, easy life.” -Jerzy Gregorek
+-Favorite Quote: “Easy choices, hard life. Hard choices, easy life.” -Jerzy Gregore
